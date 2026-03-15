@@ -17,6 +17,9 @@ The dashboard provides insights into sales performance by city, brand, and payme
 - Payment Method Distribution
 - Interactive Filters
 
+## Dashboard Preview
+my dasdboard.pdf
+
 ## Key Insights
 - Major revenue generated from top cities
 - Certain brands dominate the market
